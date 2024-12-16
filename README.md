@@ -1,1 +1,13 @@
 # CS-250-Sharif
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+When it comes to understanding user needs, I start by actively listening and asking thoughtful questions. I try to step into the user’s shoes and see things from their perspective to understand what they really want. This process often reveals the problems they’re facing and what they hope to achieve. Creating user stories helps me organize these needs into clear, simple goals. For example, a user story like “As a user, I want to reset my password easily so I can access my account without stress” keeps the focus on their experience. By breaking down big requirements into small, manageable pieces, user stories give me a clear plan to follow. They also help me prioritize tasks and ensure I’m delivering something that makes a real difference for the user.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I approach program development by taking it step by step and keeping things organized. Instead of trying to do everything at once, I focus on small, achievable goals. I find that Agile practices make this approach much more effective. For instance, sprint planning helps me figure out what needs to get done during a specific timeframe, and daily stand-ups allow me to check in with the team, share my progress, and address any challenges. At the end of each sprint, reviews and retrospectives are incredibly valuable—they give me a chance to demonstrate my work, gather feedback, and reflect on ways to improve. Looking ahead, I want to use tools like JIRA or Trello to better manage tasks and keep everything on track. I also plan to make feedback a regular part of my development process to ensure the final product meets user needs and expectations.
+
+What does it mean to be a good team member in software development?
+
+Being a good team member isn’t just about doing your part, it’s about being there for the team. For me, that means communicating clearly, sharing updates, and asking for help when I need it. I also make an effort to support others by offering help or feedback when they’re stuck. Teamwork is about collaboration, working together to solve problems and build something great. I also believe that being reliable is key; if I commit to a task, I follow through and deliver on time. On top of that, I try to stay adaptable because things can change quickly in software development, and being flexible helps keep the team moving forward. Ultimately, a good team member makes the work smoother and more enjoyable for everyone, while helping the team succeed as a whole.
